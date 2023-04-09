@@ -1,0 +1,5 @@
+*.env
+__pycache__
+alembic
+data_mounted
+alembic.ini
